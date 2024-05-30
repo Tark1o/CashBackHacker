@@ -3,7 +3,9 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
-
+.build
+*.build
+/.build
 ### STS ###
 .apt_generated
 .classpath
@@ -19,6 +21,8 @@ build/
 *.iml
 *.ipr
 out/
+/.idea
+*.idea
 
 ### NetBeans ###
 /nbproject/private/
@@ -43,3 +47,6 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+.gradlew
+/.gradlew
+*.gradlew
