@@ -23,7 +23,7 @@ build/
 out/
 /.idea
 *.idea
-
+*.idea/
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -50,3 +50,4 @@ out/
 .gradlew
 /.gradlew
 *.gradlew
+*.gradlew/
